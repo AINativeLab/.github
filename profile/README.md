@@ -6,4 +6,3 @@ We are building things with AI.
 ## Projects
 
 ### [GPTs Hunter](https://www.gptshunter.com)
-### [AI.LS](https://ai.ls)
