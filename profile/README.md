@@ -5,4 +5,6 @@ We are building things with AI.
 
 ## Projects
 
-### [GPTs Hunter](https://www.gptshunter.com)
+* [GPTs Hunter](https://www.gptshunter.com)
+
+* [Awesome Flux AI](https://github.com/AINativeLab/awesome-flux-ai) [website](https://www.awesomefluxai.com)
